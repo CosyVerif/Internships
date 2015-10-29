@@ -7,8 +7,8 @@ dans la plateforme CosyVerif.
 [CosyVerif](http://cosyverif.org) est une plateforme logicielle de vérification
 formelle. Développée conjointement par les laboratoires d'informatique des
 universités Paris 6, Paris 13, ENS Cachan et Genève, permet la détection précoce
-de problèmes difficile (ou impossible) à détecter par les méthodes usuelles de
-test. Ces problèmes sont décrits sous formes de modèles, décris dans des
+de problèmes difficiles (ou impossibles) à détecter par les méthodes usuelles de
+test. Ces problèmes sont décrits sous formes de modèles, décrits dans des
 formalismes basés sur des graphes, tels que les
 [automates](https://fr.wikipedia.org/wiki/Automate) ou
 [réseaux de Petri](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_Petri).
