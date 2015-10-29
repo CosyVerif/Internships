@@ -36,7 +36,13 @@ Le logiciel Paquito est écrit en [PHP](http://php.net/) sous license libre
 sont au format [YAML](http://yaml.org/). Pour générer les paquets, Paquito
 utilise des conteneurs [Docker](https://www.docker.com/).
 
-Le projet sera géré en méthode [Scrum](https://www.scrum.org/).
+Le projet sera géré en méthode [Scrum](https://www.scrum.org/).Le projet sera
+ainsi découpé en plusieurs *sprints* d'une durée fixée, à l'issue de laquelle
+vous enregistrerez une video qui démontrera les fonctionnalités de votre client.
+
+Vous serez dans un environnement de développement utilisant
+[GitHub](https://github.com/) pour les dépôts de sources et le suivi des
+tickets, et [Shippable](https://app.shippable.com/) pour l'intégration continue.
 Vous devrez proposer une architecture simple, propre et modulaire.
 L'implémentation devra être maintenable, claire et respecter les standards
 [PSR](http://www.php-fig.org/psr/).
