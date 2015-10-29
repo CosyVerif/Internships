@@ -6,14 +6,14 @@ Développement d'un client web pour la plateforme CosyVerif
 [CosyVerif](http://cosyverif.org) est une plateforme logicielle de vérification
 formelle. Développée conjointement par les laboratoires d'informatique des
 universités Paris 6, Paris 13, ENS Cachan et Genève, permet la détection précoce
-de problèmes difficile (ou impossible) à détecter par les méthodes usuelles de
+de problèmes difficiles (ou impossibles) à détecter par les méthodes usuelles de
 test. Ces problèmes sont décrits sous formes de modèles,
 [automates](https://fr.wikipedia.org/wiki/Automate) ou
 [réseaux de Petri](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_Petri).
 
 Les outils intégrés dans [CosyVerif](http://cosyverif.org) sont très gourmands
 en mémoire, ainsi qu'en temps de calcul. C'est pourquoi ils sont exécutés sur
-de grosses machines dédiées. La plateforme est ainsi construire sur un modèle
+de grosses machines dédiées. La plateforme est ainsi construite sur un modèle
 client/serveur. Le client doit être simple à installer et utiliser, ainsi
 qu'être portable.
 
@@ -46,7 +46,7 @@ Le logiciel [CosyVerif](http://cosyverif.org) est écrit en
 
 Le projet sera géré en méthode [Scrum](https://www.scrum.org/). Le projet sera
 ainsi découpé en plusieurs *sprints* d'une durée fixée, à l'issue de laquelle
-vous enregistrerez une video qui démontrera les fonctionnalités de votre client.
+vous enregistrerez une vidéo qui démontrera les fonctionnalités de votre client.
 
 Vous serez dans un environnement de développement utilisant
 [GitHub](https://github.com/) pour les dépôts de sources et le suivi des
