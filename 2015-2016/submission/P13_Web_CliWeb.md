@@ -45,8 +45,8 @@ Le logiciel [CosyVerif](http://cosyverif.org) est écrit en
 [MIT](https://fr.wikipedia.org/wiki/Licence_MIT).
 
 Le projet sera géré en méthode [Scrum](https://www.scrum.org/). Le projet sera
-ainsi découpé en plusieurs *sprints* d'une durée fixée, à l'issue de laquelle
-vous enregistrerez une vidéo qui démontrera les fonctionnalités de votre client.
+ainsi découpé en plusieurs *sprints* d'une durée fixée, à l'issue desquels
+vous enregistrerez une vidéo démontrant les fonctionnalités de votre client.
 
 Vous serez dans un environnement de développement utilisant
 [GitHub](https://github.com/) pour les dépôts de sources et le suivi des
