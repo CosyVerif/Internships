@@ -37,8 +37,8 @@ sont au format [YAML](http://yaml.org/). Pour générer les paquets, Paquito
 utilise des conteneurs [Docker](https://www.docker.com/).
 
 Le projet sera géré en méthode [Scrum](https://www.scrum.org/).Le projet sera
-ainsi découpé en plusieurs *sprints* d'une durée fixée, à l'issue de laquelle
-vous enregistrerez une vidéo qui démontrera les fonctionnalités de votre client.
+ainsi découpé en plusieurs *sprints* d'une durée fixée, à l'issue desquels
+vous montrerez les fonctionalités implémentées.
 
 Vous serez dans un environnement de développement utilisant
 [GitHub](https://github.com/) pour les dépôts de sources et le suivi des
