@@ -1,7 +1,7 @@
 Integration d'outils dans la plateforme CosyVerif
 ================================================
 
-Résumé : Intégration de plusieurs outils permettant de manipuler des automates et réseaux de Petri dans la plateforme CosyVerif.
+Résumé : Intégration et développement d'outils permettant de manipuler des automates et réseaux de Petri dans la plateforme CosyVerif.
 
 [CosyVerif](http://cosyverif.org) est une plateforme logicielle de vérification
 formelle. Développée conjointement par les laboratoires d'informatique des
